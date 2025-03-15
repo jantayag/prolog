@@ -1,0 +1,11 @@
+TO RUN THE CODE YOU NEED TO RUN THE SERVER.PY
+    run a terminal
+        cd prolog-backend
+        python servery.py
+
+AND ALSO RUN THE APP.JS
+    run a terminal
+        cd prolog-ui
+        npm start
+
+SOURCE CODES ARE LOCATED IN PROLOG-UI/SRC and PROLOG-BACKEND
